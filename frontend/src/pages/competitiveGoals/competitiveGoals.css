@@ -132,10 +132,6 @@ h2 {
 }
 
 @media (max-width: 768px) {
-  .goalsHeder {
-    margin: 20px;
-  }
-
   .goalsHeder h1 {
     font-size: 28px;
   }
